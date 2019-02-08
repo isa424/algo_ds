@@ -71,5 +71,4 @@ void insertion_sort(T *list, int size)
 template <typename>
 void merge_sort(T *list, int size)
 {
-
 }
